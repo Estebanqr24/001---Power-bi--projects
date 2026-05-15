@@ -13,7 +13,7 @@ Dashboard desarrollado en Power BI para analizar ventas, beneficios, descuentos,
 
 ## 📈 KPIs y análisis
 - Ventas Totales
-- Ventas por categoría y cliente
+- Ventas por categoría y por cliente
 - Beneficio y descuentos
 - Margen de Beneficio %
 - Top Productos
@@ -41,6 +41,18 @@ Dashboard desarrollado en Power BI para analizar ventas, beneficios, descuentos,
 ---
 
 # 📋 Dashboards
+
+## 📌 Tablero 1
+
+![Dashboard de ventas por tiempo y categoría](<003 - screenshots/001-sales-performance_001.png>)
+
+---
+
+## 📌 Tablero 2
+
+![Dahsboard de ventas, beneficios y descuentos](<003 - screenshots/001-sales-performance_002.png>)
+
+---
 
 ## 📌 Tablero 3
 
