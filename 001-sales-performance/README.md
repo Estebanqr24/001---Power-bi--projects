@@ -1,20 +1,20 @@
-# Retail Sales Performance Dashboard
+# 📊 Retail Sales Performance Dashboard
 
 Dashboard desarrollado en Power BI para analizar ventas, beneficios, descuentos, categorías, productos y comportamiento de clientes mediante KPIs y visualizaciones comerciales.
 
 ---
 
-## Herramientas utilizadas
+## 🛠️ Herramientas utilizadas
 - Power BI
 - DAX
 - Excel
 
 ---
 
-## KPIs y análisis
+## 📈 KPIs y análisis
 - Ventas Totales
-- Ventas por categoría, por cliente
-- Beneficio, descuentos
+- Ventas por categoría y cliente
+- Beneficio y descuentos
 - Margen de Beneficio %
 - Top Productos
 - Ranking de ventas por clientes y categoría
@@ -25,7 +25,7 @@ Dashboard desarrollado en Power BI para analizar ventas, beneficios, descuentos,
 
 ---
 
-## Funciones DAX utilizadas
+## 🧠 Funciones DAX utilizadas
 - CALCULATE
 - FILTER
 - ALL
@@ -40,24 +40,24 @@ Dashboard desarrollado en Power BI para analizar ventas, beneficios, descuentos,
 
 ---
 
-# Dashboards
+# 📋 Dashboards
 
-## Tablero 3
+## 📌 Tablero 3
 
 ![Dashboard de ventas por cliente, formas de envío y nombre de producto](<003 - screenshots/001-sales-performance_003.png>)
 
 ---
 
-## Tablero 4
+## 📌 Tablero 4
 
 ![Dashboard según performance, categoría de cliente](<003 - screenshots/001-sales-performance_004.png>)
 
 ---
 
-## Archivos del proyecto
+## 📂 Archivos del proyecto
 
-### Power BI
+### 💻 Power BI
 [001-sales-performance.pbix](<002 - power bi/001-sales-performance.pbix>)
 
-### PDF exportado
+### 📄 PDF exportado
 [001-sales-performance.pdf](<003 - screenshots/001-sales-performance.pdf>)
