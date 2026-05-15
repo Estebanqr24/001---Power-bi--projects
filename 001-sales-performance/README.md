@@ -44,25 +44,25 @@ Dashboard desarrollado en Power BI para analizar ventas, beneficios, descuentos,
 
 ## Dashboard Ejecutivo
 
-![Dashboard de ventas por tiempo y categoría](003-screenshots/001-sales-performance_001.png)
+![Dashboard de ventas por tiempo y categoría](003 - screenshots/001-sales-performance_001.png)
 
 ---
 
 ## Análisis Comercial
 
-![Dahsboard de ventas, beneficios y descuentos](003-screenshots/001-sales-performance_002.png)
+![Dahsboard de ventas, beneficios y descuentos](003 - screenshots/001-sales-performance_002.png)
 
 ---
 
 ## Clientes y Productos
 
-![Dashboard de ventas por cliente, formas de envío y nombre de producto](003-screenshots/001-sales-performance_003.png)
+![Dashboard de ventas por cliente, formas de envío y nombre de producto](003 - screenshots/001-sales-performance_003.png)
 
 ---
 
 ## Rankings y Performance
 
-![Dashboard según performance, categoría de cliente](003-screenshots/001-sales-performance_004.png)
+![Dashboard según performance, categoría de cliente](003 - screenshots/001-sales-performance_004.png)
 
 ---
 
