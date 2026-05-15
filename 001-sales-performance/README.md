@@ -72,4 +72,4 @@ Dashboard desarrollado en Power BI para analizar ventas, beneficios, descuentos,
 [001-sales-performance.pbix](002 - power bi/001-sales-performance.pbix)
 
 ### PDF exportado
-[001-sales-performance.pdf](003 - screenhots/001-sales-performance.pdf)
+[001-sales-performance.pdf](003 - screenshots/001-sales-performance.pdf)
