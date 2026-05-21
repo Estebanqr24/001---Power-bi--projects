@@ -40,14 +40,14 @@ Dashboard desarrollado en Power BI para analizar las ventas de de un retail, as�
 
 ## 📌 Tablero 1
 
-![Dashboard de ventas por periodo de tiempo](<003 - screenshots/001-Product-Analytics-Dashboard>)
+![Dashboard de ventas por periodo de tiempo](<003 - screenshots/001-Product-Analytics-Dashboard.png>)
 
 ---
 
 ## 📂 Archivos del proyecto
 
 ### 💻 Power BI
-[001-Product-Analytics-Dashboard.pbix](<002 - power bi/001-sales-performance.pbix>)
+[001-Product-Analytics-Dashboard.pbix](<002 - power bi/001-Product-Analytics-Dashboard.pbix>)
 
 ### 📄 PDF exportado
 [001-Product-Analytics-Dashboard.pdf](<003 - screenshots/001-Product-Analytics-Dashboard.pdf>)
